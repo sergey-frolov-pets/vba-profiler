@@ -1,2 +1,2 @@
 # vba-profiler
-Profiler framework for testing VBA code
+Profiler framework for testing VBA code performance
